@@ -15,3 +15,8 @@ An interactive drum kit built using **HTML**, **CSS**, and **JavaScript**. This 
 - CSS3
 - JavaScript (Vanilla)
 
+## 🌐 Live Demo  
+[Visit My Portfolio](https://anshuchaudharyportfolio.netlify.app/)  
+
+![Portfolio Screenshot]()  
+
