@@ -4,10 +4,10 @@ An interactive drum kit built using **HTML**, **CSS**, and **JavaScript**. This 
 
 ## 🚀 Features
 
-- Play drum sounds using keyboard keys or mouse clicks
-- Visual feedback on button press
-- Responsive design for desktop and mobile
-- Clean and modular code structure
+- Play drum sounds using keyboard keys or mouse clicks.
+- Visual feedback on button press.
+- Responsive design for desktop and mobile.
+- Clean and modular code structure.
 
 ## 🛠️ Technologies Used
 
